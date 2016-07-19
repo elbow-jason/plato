@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "jsx": "react",
+    "experimentalDecorators": true,
+    "sourceMap": true
+  },
+  "exclude": [
+    "node_modules"
+  ],
+  "files": [
+    "web/static/js/plato/main.ts",
+    "web/static/js/app.ts",
+    "web/static/js/socket.ts"
+  ],
+  "compileOnSave": false,
+  "buildOnSave": false
+}
